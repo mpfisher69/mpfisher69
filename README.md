@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mpfisher69
 - 👀 I’m interested in electronics and drumming
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently working as hardware design engineer (electronics).
 - 💞️ I’m looking to collaborate on software for Android, iOS and various MCUs.
 - 📫 You can reach me via email: mpfisher69@gmail.com
 
